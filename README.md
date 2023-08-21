@@ -72,7 +72,7 @@ If you require restricted access to a on prem or Azure network (that isnt set up
 ## Giving ADO Access 
 As you can see in the IP Filtered it has access with the single range, if you visit the link below in further reading "Allowed IP addresses and domain URLs - INBOUND" this will provide you with all the regions ADO works in and their corresponding IP addresses.
 
-To find your region go o your orginisation in ADO > Click Orginization settings > In Overview you will see region for me its UK South
+To find your region go to your orginisation in ADO > Click Orginization settings > In Overview you will see region for me its UK South
 
 ![image](https://github.com/knowlesy/AzKeyVault_Pipeline_Security/assets/20459678/91fc1aed-5bf7-4dbc-8883-8e5a6b1c3e4a)
 
