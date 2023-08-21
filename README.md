@@ -31,6 +31,7 @@ The SPN "Key Vault" was added to my test project as a connector in ADO
 
 ![image](https://github.com/knowlesy/AzKeyVault_Pipeline_Security/assets/20459678/9d681e8f-d9c1-4ad1-9e36-dc56011d39a1)
 
+## Network Config Options
 
 ### IP MSOnly  
 Network settings
