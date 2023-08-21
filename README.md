@@ -76,7 +76,7 @@ My access via web page
 If you require restricted access to a on prem or Azure network (that isnt set up to utilise private link) as well as public access (ADO Access), this would be the best way  to enable that. 
 
 ## Giving ADO Access 
-As you can see in the IP Filtered it has access with the single range, if you visit the link below in further reading "Allowed IP addresses and domain URLs - INBOUND" this will provide you with all the regions ADO works in and their corresponding IP addresses.
+As you can see in the IP Filtered it has access with the single range, if you visit the link below in further reading "Allowed IP addresses and domain URLs - INBOUND" this will provide you with all the regions ADO works in and their corresponding IP addresses/ranges.
 
 To find your region go to your Organisation in ADO > Click Organization settings > In Overview you will see region for me its UK South
 
